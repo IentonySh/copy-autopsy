@@ -6,17 +6,17 @@ function App() {
     <div className="min-h-screen bg-[#ffffff] text-[#2a2a2a] font-[IBM Plex Sans, sans-serif] antialiased flex items-center justify-center">
       <main className="max-w-2xl w-full px-4 py-12 text-center">
 
-        <h1 className="text-3xl md:text-4xl font-bold mb-6">Copy Autopsy™</h1>
+        <h1 className="text-2xl md:text-3xl font-semibold mb-2">Copy Autopsy™</h1>
 
-        <p className="text-xl font-medium mb-4">
+        <p className="text-2xl font-semibold mb-3">
           If your SaaS landing isn’t converting, you’re bleeding money — and don’t even know where the cut is.
         </p>
-        <p className="text-lg mb-6">
+        <p className="text-xl mb-8">
           In 48h or less, I’ll send you a surgical report with the 3 biggest conversion leaks — and how to fix them. No calls. No fluff. Flat $250.
         </p>
 
         <a href="https://buy.stripe.com/dRm3cxcs6b51alvaCN4F200" target="_blank" rel="noopener noreferrer">
-          <button className="bg-[#cc0000] hover:bg-[#a30000] text-white font-medium py-3 px-8 rounded-md transition-colors duration-300 focus:outline-none mb-12">
+          <button className="bg-[#cc0000] hover:bg-[#a30000] text-white font-medium py-3 px-8 rounded-md transition-colors duration-300 focus:outline-none mb-4">
             Run My Autopsy — $250
           </button>
         </a>
