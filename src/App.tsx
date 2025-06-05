@@ -6,7 +6,7 @@ function App() {
     <div className="min-h-screen bg-[#ffffff] text-[#2a2a2a] font-[IBM Plex Sans, sans-serif] antialiased flex items-center justify-center">
       <main className="max-w-2xl w-full px-4 py-12 text-center">
 
-        <h1 className="text-2xl md:text-3xl font-semibold mb-2">Copy Autopsy™</h1>
+        <h1 className="text-base md:text-lg font-medium mb-1 text-[#8b0000]">Copy Autopsy™</h1>
 
         <p className="text-2xl font-semibold mb-3">
           If your SaaS landing isn’t converting, you’re bleeding money — and don’t even know where the cut is.
