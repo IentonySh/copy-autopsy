@@ -15,7 +15,7 @@ function App() {
           In 48h or less, I’ll send you a surgical report with the 3 biggest conversion leaks — and how to fix them. No calls. No fluff.
         </p>
 
-        <a href="https://buy.stripe.com/dRm3cxcs6b51alvaCN4F200" target="_blank" rel="noopener noreferrer">
+        <a href="https://buy.stripe.com/7sY3cxbo27SPbpzfX74F201" target="_blank" rel="noopener noreferrer">
           <button className="bg-[#cc0000] hover:bg-[#a30000] text-white font-medium py-3 px-8 rounded-md transition-colors duration-300 focus:outline-none mb-4">
             Run My Autopsy — $500
           </button>
@@ -85,7 +85,7 @@ function App() {
           <p>Straight to your inbox.<br />No meetings. No calls. No decks.<br />$500. One-time. Cold. Brutal. Actionable.</p>
           <p><em>This isn’t a rewrite. It’s the map.<br />You fix it — or pay me to operate. No pressure. Just options.</em></p>
 
-          <a href="https://buy.stripe.com/dRm3cxcs6b51alvaCN4F200" target="_blank" rel="noopener noreferrer">
+          <a href="https://buy.stripe.com/7sY3cxbo27SPbpzfX74F201" target="_blank" rel="noopener noreferrer">
             <button className="bg-[#cc0000] hover:bg-[#a30000] text-white font-medium py-3 px-8 rounded-md transition-colors duration-300 focus:outline-none mt-6">
               Run My Autopsy — $500
             </button>
@@ -154,7 +154,7 @@ function App() {
           <p>Know exactly where your messaging is failing.<br />And what it’s costing you.</p>
           <p><strong>Autopsy. $500. 48h. Straight to your inbox.</strong></p>
 
-          <a href="https://buy.stripe.com/dRm3cxcs6b51alvaCN4F200" target="_blank" rel="noopener noreferrer">
+          <a href="https://buy.stripe.com/7sY3cxbo27SPbpzfX74F201" target="_blank" rel="noopener noreferrer">
             <button className="bg-[#cc0000] hover:bg-[#a30000] text-white font-medium py-3 px-8 rounded-md transition-colors duration-300 focus:outline-none mt-6">
               Request Diagnosis
             </button>
@@ -168,6 +168,7 @@ function App() {
 }
 
 export default App;
+
 
 
 
