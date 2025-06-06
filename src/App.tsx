@@ -80,7 +80,7 @@ function App() {
           <ul className="list-disc pl-5 space-y-2">
             <li>A surgical diagnosis of why your landing is quietly killing conversions</li>
             <li>The 3 most critical leaks — and exactly how they’re draining your trials, demos, and signups</li>
-            <li>Precise copy + UX notes: what to cut, what to rewrite, what’s confusing your visitors</li>
+            <li>Precise copy notes: what to cut, what to rewrite, what’s confusing your visitors</li>
           </ul>
           <p>Straight to your inbox.<br />No meetings. No calls. No decks.<br />$500. One-time. Cold. Brutal. Actionable.</p>
           <p><em>This isn’t a rewrite. It’s the map.<br />You fix it — or pay me to operate. No pressure. Just options.</em></p>
