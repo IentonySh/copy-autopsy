@@ -12,7 +12,7 @@ function App() {
           If your SaaS landing isn’t converting, you’re bleeding money — and don’t even know where the cut is.
         </p>
         <p className="text-xl mb-8">
-          In 48h or less, I’ll send you a surgical report with the 3 biggest conversion leaks — and how to fix them. No calls. No fluff. Flat $500.
+          In 48h or less, I’ll send you a surgical report with the 3 biggest conversion leaks — and how to fix them. No calls. No fluff.
         </p>
 
         <a href="https://buy.stripe.com/dRm3cxcs6b51alvaCN4F200" target="_blank" rel="noopener noreferrer">
@@ -74,7 +74,7 @@ function App() {
 
       
         <div className="space-y-4 text-left mx-auto max-w-prose mt-16 border-t border-gray-300 pt-8">
-          <h2 className="text-xl font-bold">Landing Page Autopsy — $500. Delivered in 48h.</h2>
+          <h2 className="text-xl font-bold">Landing Page Autopsy. Delivered in 48h.</h2>
           <p>I already saw the bleeding.<br />Now I’m offering the report.</p>
           <p>You’ll get:</p>
           <ul className="list-disc pl-5 space-y-2">
@@ -168,5 +168,6 @@ function App() {
 }
 
 export default App;
+
 
 
