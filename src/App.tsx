@@ -12,12 +12,12 @@ function App() {
           If your SaaS landing isn’t converting, you’re bleeding money — and don’t even know where the cut is.
         </p>
         <p className="text-xl mb-8">
-          In 48h or less, I’ll send you a surgical report with the 3 biggest conversion leaks — and how to fix them. No calls. No fluff. Flat $250.
+          In 48h or less, I’ll send you a surgical report with the 3 biggest conversion leaks — and how to fix them. No calls. No fluff. Flat $500.
         </p>
 
         <a href="https://buy.stripe.com/dRm3cxcs6b51alvaCN4F200" target="_blank" rel="noopener noreferrer">
           <button className="bg-[#cc0000] hover:bg-[#a30000] text-white font-medium py-3 px-8 rounded-md transition-colors duration-300 focus:outline-none mb-4">
-            Run My Autopsy — $250
+            Run My Autopsy — $500
           </button>
         </a>
       
@@ -74,7 +74,7 @@ function App() {
 
       
         <div className="space-y-4 text-left mx-auto max-w-prose mt-16 border-t border-gray-300 pt-8">
-          <h2 className="text-xl font-bold">Landing Page Autopsy — $250. Delivered in 48h.</h2>
+          <h2 className="text-xl font-bold">Landing Page Autopsy — $500. Delivered in 48h.</h2>
           <p>I already saw the bleeding.<br />Now I’m offering the report.</p>
           <p>You’ll get:</p>
           <ul className="list-disc pl-5 space-y-2">
@@ -82,12 +82,12 @@ function App() {
             <li>The 3 most critical leaks — and exactly how they’re draining your trials, demos, and signups</li>
             <li>Precise copy + UX notes: what to cut, what to rewrite, what’s confusing your visitors</li>
           </ul>
-          <p>Straight to your inbox.<br />No meetings. No calls. No decks.<br />$250. One-time. Cold. Brutal. Actionable.</p>
+          <p>Straight to your inbox.<br />No meetings. No calls. No decks.<br />$500. One-time. Cold. Brutal. Actionable.</p>
           <p><em>This isn’t a rewrite. It’s the map.<br />You fix it — or pay me to operate. No pressure. Just options.</em></p>
 
           <a href="https://buy.stripe.com/dRm3cxcs6b51alvaCN4F200" target="_blank" rel="noopener noreferrer">
             <button className="bg-[#cc0000] hover:bg-[#a30000] text-white font-medium py-3 px-8 rounded-md transition-colors duration-300 focus:outline-none mt-6">
-              Run My Autopsy — $250
+              Run My Autopsy — $500
             </button>
           </a>
         </div>
@@ -140,7 +140,7 @@ function App() {
       
         <div className="space-y-4 text-left mx-auto max-w-prose mt-16 border-t border-gray-300 pt-8">
           <p className="font-bold text-lg">You’re spending over $5,000 a month on traffic — but leaking leads.</p>
-          <p>For $250, you get a diagnosis that shows exactly where it’s failing.</p>
+          <p>For $500, you get a diagnosis that shows exactly where it’s failing.</p>
           <p>Or you can increase ad spend next month…<br />and double down on waste.</p>
         </div>
 
@@ -152,7 +152,7 @@ function App() {
           <p><strong>Or…</strong></p>
           <p>You can get a precise diagnosis.</p>
           <p>Know exactly where your messaging is failing.<br />And what it’s costing you.</p>
-          <p><strong>Autopsy. $250. 48h. Straight to your inbox.</strong></p>
+          <p><strong>Autopsy. $500. 48h. Straight to your inbox.</strong></p>
 
           <a href="https://buy.stripe.com/dRm3cxcs6b51alvaCN4F200" target="_blank" rel="noopener noreferrer">
             <button className="bg-[#cc0000] hover:bg-[#a30000] text-white font-medium py-3 px-8 rounded-md transition-colors duration-300 focus:outline-none mt-6">
@@ -168,3 +168,5 @@ function App() {
 }
 
 export default App;
+
+
