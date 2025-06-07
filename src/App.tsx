@@ -4,9 +4,8 @@
     If you’re paying for traffic but your page isn’t converting — you’re not just bleeding money. You’re scaling a failure.
   </p>
   <p className="text-lg">
-    In 48h or less, I’ll send you a tactical report showing exactly where your copy is killing conversions — and how to fix it.<br />
-    No calls. No fluff. Just cold clarity.
-  </p>
+    In 48h or less, I’ll send you a tactical report showing exactly where your copy is killing conversions — and how to fix it.
+</p>
   <button className="mt-6 px-6 py-3 bg-black text-white font-bold text-lg rounded hover:bg-gray-800 transition">
     Run My Autopsy — $500
   </button>
