@@ -1,17 +1,20 @@
+<h1 className="text-base md:text-lg font-medium mb-1 text-[#8b0000]">Copy Autopsy™</h1>
 
-<section className="mt-12">
-  <p className="text-2xl font-bold mb-4">
-    If you’re paying for traffic but your page isn’t converting — you’re not just bleeding money. You’re scaling a failure.
-  </p>
-  <p className="text-lg">
-    In 48h or less, I’ll send you a tactical report showing exactly where your copy is killing conversions — and how to fix it.
+<p className="text-2xl font-semibold mb-3">
+  You’re not just bleeding money. You’re scaling a failure.
 </p>
-  <button className="mt-6 px-6 py-3 bg-black text-white font-bold text-lg rounded hover:bg-gray-800 transition">
+<p className="text-xl mb-8">
+  In 48h or less, I’ll send a tactical diagnosis showing the 3 biggest copy leaks on your landing — and how they’re quietly killing your conversions.
+  No calls. No fluff. Just clarity and action.
+</p>
+
+<a href="https://buy.stripe.com/7sY3cxbo27SPbpzfX74F201" target="_blank" rel="noopener noreferrer">
+  <button className="bg-[#cc0000] hover:bg-[#a30000] text-white font-medium py-3 px-8 rounded-md transition-colors duration-300 focus:outline-none mb-4">
     Run My Autopsy — $500
   </button>
+</a>
+
 </section>
-
-
 
 <h2 className="text-xl font-semibold mb-4">Here’s what you’ll get in 48 hours or less:</h2>
 
@@ -21,7 +24,6 @@
   <li>Tactical notes on what to cut, rewrite, or restructure — line by line</li>
   <li>Delivered directly to your inbox — no meetings, no calls</li>
 </ul>
-
 
 
 <p className="text-xl font-semibold mb-4">
@@ -41,8 +43,6 @@
   You need clarity on what’s blocking action.
 </p>
 
-
-
 <h2 className="text-xl font-semibold mb-4">Before you go any further, read this:</h2>
 
 <ul className="list-none space-y-2 text-lg">
@@ -60,8 +60,6 @@
   If it doesn’t move the sale forward — it gets cut.
 </p>
 
-
-
 <p className="text-xl font-semibold mb-4">
   If I don’t show you exactly where your copy is killing conversions — you don’t pay.
 </p>
@@ -75,8 +73,6 @@
   Either you get clarity you can use —<br />
   or you keep every cent.
 </p>
-
-
 
 <section className="bg-[#f9f9f9] p-6 rounded-md shadow-sm border border-[#e5e5e5]">
   <h2 className="text-2xl font-bold mb-4">Landing Page Autopsy. Delivered in 48h.</h2>
@@ -113,7 +109,6 @@
 </section>
 
 
-
 <section className="mt-10">
   <h2 className="text-xl font-semibold mb-4">What high-leverage pros saw after the Autopsy:</h2>
 
@@ -143,8 +138,6 @@
   </div>
 </section>
 
-
-
 <section className="mt-12">
   <h2 className="text-2xl font-semibold mb-4">What happens when you fix what actually matters?</h2>
 
@@ -163,8 +156,6 @@
   </p>
 </section>
 
-
-
 <section className="mt-12">
   <p className="text-xl font-semibold mb-4">
     You’re spending $5,000+ a month on traffic — and leaking leads.
@@ -179,7 +170,6 @@
     and pay twice to stay stuck.
   </p>
 </section>
-
 
 
 <section className="mt-12 text-lg">
@@ -208,5 +198,8 @@
     Request Autopsy
   </button>
 </section>
+
+
+
 
 
