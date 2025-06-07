@@ -124,4 +124,20 @@ function App() {
         <div className="space-y-4 text-left mx-auto max-w-prose mt-16 border-t border-gray-300 pt-8">
           <p className="font-bold">You can keep guessing.</p>
           <p>Keep paying for traffic that doesn’t convert.<br />Keep hearing “it’s not clear” from leads, teams, and investors.</p>
-          <p
+          <p><strong>Or —</strong></p>
+          <p>You can get a tactical diagnosis.</p>
+          <p>Know exactly where your copy is failing.<br />And how much it’s costing you.</p>
+          <p><strong>Autopsy. $500. 48h. No calls.<br />Just the truth — in your inbox.</strong></p>
+          <a href="https://buy.stripe.com/7sY3cxbo27SPbpzfX74F201" target="_blank" rel="noopener noreferrer">
+            <button className="bg-[#cc0000] hover:bg-[#a30000] text-white font-medium py-3 px-8 rounded-md transition-colors duration-300 focus:outline-none mt-6">
+              Request Autopsy
+            </button>
+          </a>
+        </div>
+
+      </main>
+    </div>
+  );
+}
+
+export default App;
