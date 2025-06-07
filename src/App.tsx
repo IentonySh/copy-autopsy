@@ -8,8 +8,7 @@ function App() {
         <h1 className="text-base md:text-lg font-medium mb-1 text-[#8b0000]">Copy Autopsy™</h1> 
 
         <p className="text-2xl font-semibold mb-3">
-          If you’re paying for traffic but your page isn’t converting —<br />
-          you’re not just bleeding money. You’re scaling a failure.
+          If you’re paying for traffic but your page isn’t converting — you’re not just bleeding money. You’re scaling a failure.
         </p>
         <p className="text-xl mb-8">
           In 48h or less, I’ll send you a tactical report showing exactly where your copy is killing conversions — and how to fix it.
