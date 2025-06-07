@@ -20,6 +20,8 @@ function App() {
           </button>
         </a>
 
+        <hr className="my-12 border-gray-300" />
+
         <div className="space-y-6 text-left mx-auto max-w-prose mt-12">
           <p className="font-bold text-lg">Here’s what you’ll get in 48 hours or less:</p>
           <ul className="list-disc pl-5 space-y-2">
@@ -30,12 +32,16 @@ function App() {
           </ul>
         </div>
 
+        <hr className="my-12 border-gray-300" />
+
         <div className="space-y-4 text-left mx-auto max-w-prose mt-12">
           <p>This isn’t a theoretical breakdown made for “early-stage founders.”</p>
           <p>It’s for operators running paid traffic — and watching their funnel stall.</p>
           <p>You’re spending. You’re testing. You’re optimizing.<br />And still — the numbers stay flat.</p>
           <p>You don’t need more inspiration.<br />You need clarity on what’s blocking action.</p>
         </div>
+
+        <hr className="my-12 border-gray-300" />
 
         <div className="space-y-4 text-left mx-auto max-w-prose mt-12">
           <p className="font-bold text-lg">Before you go any further, read this:</p>
@@ -44,11 +50,15 @@ function App() {
           <p>If it doesn’t move the sale forward — it gets cut.</p>
         </div>
 
+        <hr className="my-12 border-gray-300" />
+
         <div className="space-y-4 text-left mx-auto max-w-prose mt-12 border-t border-gray-300 pt-8">
           <p className="font-bold text-lg">If I don’t show you exactly where your copy is killing conversions — you don’t pay.</p>
           <p>No guesswork. No theory.<br />Just a tactical diagnosis built for action.</p>
           <p>Either you get clarity you can use —<br />or you keep every cent.</p>
         </div>
+
+        <hr className="my-12 border-gray-300" />
 
         <div className="space-y-4 text-left mx-auto max-w-prose mt-16 border-t border-gray-300 pt-8">
           <h2 className="text-xl font-bold">Landing Page Autopsy. Delivered in 48h.</h2>
@@ -69,6 +79,8 @@ function App() {
             </button>
           </a>
         </div>
+
+        <hr className="my-12 border-gray-300" />
 
         <div className="space-y-8 text-left mx-auto max-w-prose mt-16 border-t border-gray-300 pt-8">
           <h2 className="text-xl font-bold mb-4">What other founders saw after the Autopsy:</h2>
@@ -101,6 +113,8 @@ function App() {
           </div>
         </div>
 
+        <hr className="my-12 border-gray-300" />
+
         <div className="space-y-6 text-left mx-auto max-w-prose mt-16 border-t border-gray-300 pt-8">
           <h2 className="text-xl font-bold mb-4">What happens when you fix what actually matters?</h2>
           <ul className="list-disc pl-5 space-y-2">
@@ -114,11 +128,15 @@ function App() {
           <p className="font-semibold">Clarity. Direction. Revenue.</p>
         </div>
 
+        <hr className="my-12 border-gray-300" />
+
         <div className="space-y-4 text-left mx-auto max-w-prose mt-16 border-t border-gray-300 pt-8">
           <p className="font-bold text-lg">You’re spending $5,000+ a month on traffic — and leaking leads.</p>
           <p>For $500, you get a tactical diagnosis that shows exactly where it’s failing.</p>
           <p>Or you can bump the ad budget next month…<br />and pay twice to stay stuck.</p>
         </div>
+
+        <hr className="my-12 border-gray-300" />
 
         <div className="space-y-4 text-left mx-auto max-w-prose mt-16 border-t border-gray-300 pt-8">
           <p className="font-bold">You can keep guessing.</p>
@@ -142,4 +160,3 @@ function App() {
 export default App;
 
 // Force redeploy
-
